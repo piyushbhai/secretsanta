@@ -22,13 +22,13 @@ If someone ends up with themselves or with their previous year match, it reshuff
 
 ## Screenshots for app
 
-![App Screenshot](screenshots/Screenshot-1.png)
-(screenshots/Screenshot-2.png)
-(screenshots/Screenshot-3.png)
-(screenshots/Screenshot-4.png)
-(screenshots/Screenshot-5.png)
-(screenshots/Screenshot-6.png)
-(screenshots/Screenshot-7.png)
+![Screenshot 1](screenshots/Screenshot-1.png)
+![Screenshot 2](screenshots/Screenshot-2.png)
+![Screenshot 3](screenshots/Screenshot-3.png)
+![Screenshot 4](screenshots/Screenshot-4.png)
+![Screenshot 5](screenshots/Screenshot-5.png)
+![Screenshot 6](screenshots/Screenshot-6.png)
+![Screenshot 7](screenshots/Screenshot-7.png)
 
 ## Prerequisites
 
