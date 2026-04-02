@@ -22,7 +22,13 @@ If someone ends up with themselves or with their previous year match, it reshuff
 
 ## Screenshots for app
 
-
+![App Screenshot](screenshots/Screenshot-1.png)
+(screenshots/Screenshot-2.png)
+(screenshots/Screenshot-3.png)
+(screenshots/Screenshot-4.png)
+(screenshots/Screenshot-5.png)
+(screenshots/Screenshot-6.png)
+(screenshots/Screenshot-7.png)
 
 ## Prerequisites
 
@@ -32,21 +38,21 @@ If someone ends up with themselves or with their previous year match, it reshuff
 
 ### 1. Clone the repository
 
-git clone https://github.com/piyushbhai/secret-santa.git
-cd secret-santa
+- git clone https://github.com/piyushbhai/secret-santa.git
+- cd secret-santa
 
 ## Installation & Setup
 
-#Frontend in local development
-cd client
-npm install or npm i
-npm run dev
+## Frontend in local development
+- cd client
+- npm install or npm i
+- npm run dev
 
-#Backend in local development
-cd server
-npm install or npm i
-npm run dev
+## Backend in local development
+- cd server
+- npm install or npm i
+- npm run dev
 
-#Backend Details
-PORT=5000
-MONGO_URI=mongodb://localhost:27017/secretsanta
+## Backend Details
+- PORT=5000
+- MONGO_URI=mongodb://localhost:27017/secretsanta
