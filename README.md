@@ -20,17 +20,6 @@ You upload a csv with employee names and emails. the app parses it, stores the d
 
 If someone ends up with themselves or with their previous year match, it reshuffles and tries again. with 15 people it usually works on the first or second try.
 
-## Screenshots for app
-
-![Screenshot 1](screenshots/Screenshot-1.png)
-![Screenshot 2](screenshots/Screenshot-2.png)
-![Screenshot 3](screenshots/Screenshot-3.png)
-![Screenshot 4](screenshots/Screenshot-4.png)
-![Screenshot 5](screenshots/Screenshot-5.png)
-![Screenshot 6](screenshots/Screenshot-6.png)
-![Screenshot 7](screenshots/Screenshot-7.png)
-
-
 ## Prerequisites
 
 - Node.js v16 or higher
@@ -39,7 +28,7 @@ If someone ends up with themselves or with their previous year match, it reshuff
 
 ### 1. Clone the repository
 
-- git clone https://github.com/piyushbhai/secret-santa.git
+- git clone https://github.com/piyushbhai/secretsanta.git
 - cd secret-santa
 
 ## Installation & Setup
@@ -57,6 +46,16 @@ If someone ends up with themselves or with their previous year match, it reshuff
 ## Test Case Run
 - cd server
 - npm run test
+
+## Screenshots for app
+
+![Screenshot 1](screenshots/Screenshot-1.png)
+![Screenshot 2](screenshots/Screenshot-2.png)
+![Screenshot 3](screenshots/Screenshot-3.png)
+![Screenshot 4](screenshots/Screenshot-4.png)
+![Screenshot 5](screenshots/Screenshot-5.png)
+![Screenshot 6](screenshots/Screenshot-6.png)
+![Screenshot 7](screenshots/Screenshot-7.png)
 
 ## Screenshots for Run Test Case
 ![Screenshot 8](screenshots/Screenshot-8.png)
