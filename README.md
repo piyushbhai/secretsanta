@@ -30,6 +30,7 @@ If someone ends up with themselves or with their previous year match, it reshuff
 ![Screenshot 6](screenshots/Screenshot-6.png)
 ![Screenshot 7](screenshots/Screenshot-7.png)
 
+
 ## Prerequisites
 
 - Node.js v16 or higher
@@ -52,6 +53,14 @@ If someone ends up with themselves or with their previous year match, it reshuff
 - cd server
 - npm install or npm i
 - npm run dev
+
+## Test Case Run
+- cd server
+- npm run test
+
+## Screenshots for Run Test Case
+![Screenshot 8](screenshots/Screenshot-8.png)
+![Screenshot 9](screenshots/Screenshot-9.png)
 
 ## Backend Details
 - PORT=5000
